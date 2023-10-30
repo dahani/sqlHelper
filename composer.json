@@ -1,0 +1,22 @@
+{
+    "name": "dahani/sql",
+    "description": "Sql pdo fucntions that taks arrays and generate sql query",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Dahani\\Sql\\": "src/"
+        }
+    },
+    
+    "authors": [
+        {
+            "name": "dahani unes",
+            "email": "dahaniyouness@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.1"
+    }
+}
